@@ -1,0 +1,9 @@
+body {
+    font-family: 'Sen', sans-serif;
+    background-image: url('/bg-todo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    margin: 0;
+}
